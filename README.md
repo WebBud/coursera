@@ -8,6 +8,6 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://webbud.github.io/coursera/Assignments/module-3)
+// To see the output [CLICK HERE](https://webbud.github.io/coursera/Assignments/module-3)
 
 # To see the Final output [CLICK HERE](https://webbud.github.io/coursera/Assignments/module-5)
